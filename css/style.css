@@ -158,7 +158,7 @@ a{
 .home{
     width: 100%;
     height: 100vh;
-    background-image: url(images/bg2.jpg);
+    background-image: url(/images/bg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -805,7 +805,7 @@ a{
    
 }
 .background{
-    background-image: url(images/bg3.jpg);
+    background-image: url(/images/bg3.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     width: 100%;
@@ -1113,7 +1113,7 @@ a{
  
 }
 .bg{
-     background-image: url(images/backgr2.jpg);
+     background-image: url(/images/backgr2.jpg);
      width: 100%;
      background-size: cover;
      background-repeat: repeat;
